@@ -1,1 +1,1 @@
-# rsschool-cv
+https://miuroku.github.io/rsschool-cv/cv
