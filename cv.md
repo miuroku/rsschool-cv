@@ -6,10 +6,12 @@
 * **Location**: Minsk, Belarus
 * **Email**: thebestguy1101001@gmail.com
 * **GitHub**: [miuroku](https://github.com/miuroku)
+
 ----------------
 
 ## About Me
 I'm a 3-d year student at BSUIR. I do some code every day and have expirience in various programming languages and technologies. Nowadays i learning web technologies including front-end and back-end sides.
+
 ----------------
 
 ## Skills 
@@ -43,13 +45,16 @@ let getParticipants = (handshakes) => {
 * [**Django web-store E-commerce** web-site](https://github.com/miuroku/university_work/tree/master/5_Term/isp/lab34)
 * [**my CodeWars account**](https://www.codewars.com/users/miuroku)
 * Also algorithmic tasks and other mini-projects see on my [**GitHub**](https://github.com/miuroku?tab=repositories)
+
+
 ----------------
 
 ## Education
 * BSUIR (in process)
 * self-education using various platforms and resources
----------------
+
+
+----------------
 
 ## English
 *A2-B1*: good reading and understanding also intermediate spoken part
-----------------
