@@ -1,20 +1,20 @@
-# Maks yushkevich
+# Maks yushkevich #
 
 ***************
 
-## Contacts
+## Contacts ##
 * **Location**: Minsk, Belarus
 * **Email**: thebestguy1101001@gmail.com
 * **GitHub**: [miuroku](https://github.com/miuroku)
 
 ----------------
 
-## About Me
+## About Me ##
 I'm a 3-d year student at BSUIR. I do some code every day and have expirience in various programming languages and technologies. Nowadays i learning web technologies including front-end and back-end sides.
 
 ----------------
 
-## Skills 
+## Skills ##
 * JavaScript
 * Python
 * Django
@@ -28,7 +28,7 @@ I'm a 3-d year student at BSUIR. I do some code every day and have expirience in
 
 ----------------
 
-## Code Example
+## Code Example ##
 [*Handshake problem solution from codewars*](https://www.codewars.com/kata/5574835e3e404a0bed00001b)
 ```
 let getParticipants = (handshakes) => {
@@ -41,7 +41,7 @@ let getParticipants = (handshakes) => {
 
 ----------------
 
-## Experience 
+## Experience ##
 * [**Django web-store E-commerce** web-site](https://github.com/miuroku/university_work/tree/master/5_Term/isp/lab34)
 * [**my CodeWars account**](https://www.codewars.com/users/miuroku)
 * Also algorithmic tasks and other mini-projects see on my [**GitHub**](https://github.com/miuroku?tab=repositories)
@@ -49,12 +49,12 @@ let getParticipants = (handshakes) => {
 
 ----------------
 
-## Education
+## Education ##
 * BSUIR (in process)
 * self-education using various platforms and resources
 
 
 ----------------
 
-## English
+## English ##
 *A2-B1*: good reading and understanding also intermediate spoken part
